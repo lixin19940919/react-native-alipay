@@ -1,0 +1,21 @@
+{
+  "name": "react-native-alipay",
+  "version": "1.0.0",
+  "description": "A ReactNative AliPay for android",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+	"alipay",
+	"pay",
+    "android"
+  ],
+  "author": {
+    "name": "lixin",
+    "email": "lixin@vs.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixin19940919/react-native-alipay.git"
+  }
+}
